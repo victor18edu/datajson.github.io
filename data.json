@@ -22,7 +22,7 @@
         }
     ],
     "variations": [{
-        "vari_capo": true,
+        "vari_capo": false,
         "vari_capo_fretboard": "0",
         "vari_chord_fretboard": false,
         "vari_data_mounted": [{
