@@ -26,8 +26,7 @@
         "vari_capo": false,
         "vari_capo_fretboard": "0",
         "vari_chord_fretboard": false,
-        "vari_data_mounted": [
-            {
+        "vari_data_mounted": [{
                 "vari_chord_finger": "1",
                 "vari_chord_string": "5",
                 "vari_chord_fret": "1"
@@ -47,8 +46,7 @@
         "vari_capo": false,
         "vari_capo_fretboard": "0",
         "vari_chord_fretboard": false,
-        "vari_data_mounted": [[
-            {
+        "vari_data_mounted": [{
                 "vari_chord_finger": "1",
                 "vari_chord_string": "5",
                 "vari_chord_fret": "1"
@@ -63,28 +61,7 @@
                 "vari_chord_string": "2",
                 "vari_chord_fret": "3"
             }
-        ], {
-            "4": {
-                "vari_chord_finger": "1",
-                "vari_chord_string": "5",
-                "vari_chord_fret": "1"
-            },
-            "2": {
-                "vari_chord_finger": "2",
-                "vari_chord_string": "3",
-                "vari_chord_fret": "2"
-            },
-            "1": {
-                "vari_chord_finger": "3",
-                "vari_chord_string": "2",
-                "vari_chord_fret": "3"
-            },
-            "5": {
-                "vari_chord_finger": "4",
-                "vari_chord_string": "6",
-                "vari_chord_fret": "3"
-            }
-        }]
+        ]
     }, {
         "vari_capo": false,
         "vari_capo_fretboard": "0",
