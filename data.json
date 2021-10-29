@@ -1,1 +1,52 @@
-[{"id":0,"title":"D","description":"","capo":false,"capo_fretboard":"0","chord_fretboard":false,"data_mounted":{"3":{"chord_finger":"1","chord_string":"4","chord_fret":"2"},"5":{"chord_finger":"1","chord_string":"6","chord_fret":"2"},"4":{"chord_finger":"2","chord_string":"5","chord_fret":"3"}},"variations":{"vari_capo":false,"vari_capo_fretboard":"0","vari_chord_fretboard":false,"vari_data_mounted":{"4":{"vari_chord_finger":"1","vari_chord_string":"5","vari_chord_fret":"22"},"5":{"vari_chord_finger":"1","vari_chord_string":"6","vari_chord_fret":"22"},"3":{"vari_chord_finger":"2","vari_chord_string":"4","vari_chord_fret":"23"},"2":{"vari_chord_finger":"3","vari_chord_string":"3","vari_chord_fret":"24"}}}}]
+[{
+    "id": 0,
+    "title": "D",
+    "description": "",
+    "capo": false,
+    "capo_fretboard": "0",
+    "chord_fretboard": false,
+    "data_mounted": {
+        "3": {
+            "chord_finger": "1",
+            "chord_string": "4",
+            "chord_fret": "2"
+        },
+        "5": {
+            "chord_finger": "1",
+            "chord_string": "6",
+            "chord_fret": "2"
+        },
+        "4": {
+            "chord_finger": "2",
+            "chord_string": "5",
+            "chord_fret": "3"
+        }
+    },
+    "variations": {
+        "vari_capo": false,
+        "vari_capo_fretboard": "0",
+        "vari_chord_fretboard": false,
+        "vari_data_mounted": [
+            {
+                "vari_chord_finger": "1",
+                "vari_chord_string": "5",
+                "vari_chord_fret": "22"
+            },
+            {
+                "vari_chord_finger": "1",
+                "vari_chord_string": "6",
+                "vari_chord_fret": "22"
+            },
+            {
+                "vari_chord_finger": "2",
+                "vari_chord_string": "4",
+                "vari_chord_fret": "23"
+            },
+            {
+                "vari_chord_finger": "3",
+                "vari_chord_string": "3",
+                "vari_chord_fret": "24"
+            }
+        ]
+    }
+}]
