@@ -22,7 +22,7 @@
             "chord_fret": "3"
         }
     },
-    "variations": {
+    "variations":[ {
         "vari_capo": true,
         "vari_capo_fretboard": "0",
         "vari_chord_fretboard": false,
@@ -48,5 +48,5 @@
                 "vari_chord_fret": "24"
             }
         ]
-    }
+    }]
 }]
